@@ -1,0 +1,8 @@
+Los Angeles Lakers - Localidad: Los Angeles - Conferencia: OESTE
+New York Knicks - Localidad: New York - Conferencia: ESTE
+Chicago Bulls - Localidad: Chigaco - Conferencia: ESTE
+Dallas Mavericks - Localidad: Dallas - Conferencia: OESTE
+Golden State Warriors - Localidad: San Francisco - Conferencia: OESTE
+Atlanta Hawks - Localidad: Atlanta - Conferencia: ESTE
+Brooklyn Nets - Localidad: New York - Conferencia: ESTE
+Minesota Timberwolves - Localidad: Mineaoplis - Conferencia: OESTE

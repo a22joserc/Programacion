@@ -1,0 +1,4 @@
+Programación - Código: A-001 - Créditos: 9
+Sistemas Informáticos - Código: A-002 - Créditos: 7
+Lenguajes de Marcas - Código: A-003 - Créditos: 5
+Bases de Datos - Código: A-004 - Créditos: 7

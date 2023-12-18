@@ -1,0 +1,25 @@
+***********************************************************
+***************** Resumen Facturación *********************
+***********************************************************
+Tipo: furgoneta - Matricula: 0000-AAB - Color: blanco
+Fecha Entrada: 2023-03-19T08:30 - Fecha Salida: 2023-03-19T10:30
+Facturación vehículo: 3.0
+***********************************************************
+Tipo: furgoneta - Matricula: 3251-AAB - Color: blanco
+Fecha Entrada: 2023-03-19T08:30 - Fecha Salida: 2023-03-19T10:30
+Facturación vehículo: 3.0
+***********************************************************
+Tipo: furgoneta - Matricula: 9999-AAB - Color: blanco
+Fecha Entrada: 2023-03-19T08:30 - Fecha Salida: 2023-03-19T10:30
+Facturación vehículo: 3.0
+***********************************************************
+Tipo: furgoneta - Matricula: 9009-AAB - Color: blanco
+Fecha Entrada: 2023-03-19T08:30 - Fecha Salida: 2023-03-19T10:30
+Facturación vehículo: 3.0
+***********************************************************
+Tipo: furgoneta - Matricula: 8888-AAB - Color: blanco
+Fecha Entrada: 2023-03-19T08:30 - Fecha Salida: 2023-03-19T10:30
+Facturación vehículo: 3.0
+***********************************************************
+Facturación últimas 24 horas: 15.0 €
+***********************************************************

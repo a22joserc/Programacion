@@ -1,0 +1,5 @@
+Médico: 12345678H, Núm pacientes: 4
+Grado 1: 87654321H
+Grado 1: 12345678H
+Grado 2: 77744422H
+Grado 3: 66644422H

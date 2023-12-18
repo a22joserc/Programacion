@@ -1,0 +1,5 @@
+Window -> Preferences -> Java -> Editor -> Content assist
+Auto activation triggers for Java:
+.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+Auto activation triggers for Javadoc:
+@#

@@ -1,0 +1,4 @@
+PR-01:n:Cemento Cola:19.25:A-002,A-001
+PR-02:n:Maritllo-Bellota:25.85:A-002,A-001,A-003
+PR-03:i:Desbrozadora Still:653.0:Reino Unido:A-004
+PR-04:i:Corta cesped Honda:1500.2:Japon:A-001
